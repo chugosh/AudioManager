@@ -1,0 +1,5 @@
+G:\C#workplace\AudioManager\AudioManager\bin\Debug\netcoreapp3.1\AudioManager.deps.json
+G:\C#workplace\AudioManager\AudioManager\bin\Debug\netcoreapp3.1\AudioManager.dll
+G:\C#workplace\AudioManager\AudioManager\obj\Debug\netcoreapp3.1\AudioManager.csprojAssemblyReference.cache
+G:\C#workplace\AudioManager\AudioManager\obj\Debug\netcoreapp3.1\AudioManager.AssemblyInfoInputs.cache
+G:\C#workplace\AudioManager\AudioManager\obj\Debug\netcoreapp3.1\AudioManager.AssemblyInfo.cs
